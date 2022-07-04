@@ -11,6 +11,7 @@ public class Main {
         if (temperature >= 20 || numberOfStudents == 22) { // оператор ИЛИ (OR) - ||
             System.out.println("Play football");
         }
+        // Привет учитель!
 
         if (temperature > 0 && temperature < 20 || numberOfStudents > 10) {
             // true && false || true => 1 * 0 + 1 => 0 + 1 => 1 (TRUE)
