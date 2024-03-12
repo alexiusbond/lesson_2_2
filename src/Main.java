@@ -45,7 +45,7 @@ public class Main {
             // !(false || false) && true => !(0 + 0) * 1 => 1 * 1 => 1 (TRUE)
             System.out.println("Go to work");
         }
-
+        // Hi Sensei
         if (temperature != 0) {
             System.out.println("Something");
         }
