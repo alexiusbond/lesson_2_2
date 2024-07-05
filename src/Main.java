@@ -27,7 +27,7 @@ public class Main {
             // true && (true || false) && true => 1 * (1 + 0) * 1 = 1 * 1 * 1 = 1 (TRUE)
             System.out.println("We will go to the cafe");
         }
-
+        // Hi sensei
         if (isRainy) {
             System.out.println("Take an umbrella");
         }
